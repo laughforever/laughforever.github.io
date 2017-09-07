@@ -5,9 +5,9 @@
   <subtitle>haha</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2017-09-07T06:40:01.936Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://laughforever.github.io/"/>
+  <updated>2017-09-07T12:59:26.276Z</updated>
+  <id>https://laughforever.github.io/</id>
   
   <author>
     <name>haha</name>
@@ -18,33 +18,33 @@
   
   <entry>
     <title>哈哈，重新试一下</title>
-    <link href="http://yoursite.com/2017/09/07/%E5%93%88%E5%93%88%EF%BC%8C%E9%87%8D%E6%96%B0%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
-    <id>http://yoursite.com/2017/09/07/哈哈，重新试一下/</id>
+    <link href="https://laughforever.github.io/2017/09/07/%E5%93%88%E5%93%88%EF%BC%8C%E9%87%8D%E6%96%B0%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
+    <id>https://laughforever.github.io/2017/09/07/哈哈，重新试一下/</id>
     <published>2017-09-07T06:30:03.000Z</published>
-    <updated>2017-09-07T06:40:01.936Z</updated>
+    <updated>2017-09-07T12:59:26.276Z</updated>
     
-    <content type="html"><![CDATA[<p>美丽的一天<br>糟糕的一天</p><img src="/2017/09/07/哈哈，重新试一下/2017/09/07/哈哈，重新试一下/1.jpg" alt="美丽的一天" title="美丽的一天"><p>又十一张美丽的图片<br><img src="/2017/09/07/哈哈，重新试一下/img/1.jpg" alt="haha"></p>]]></content>
+    <content type="html"><![CDATA[<p>美丽的一天<br>糟糕的一天</p><p><img src="/2017/09/07/哈哈，重新试一下/.1jpg" alt="美丽的一天"></p><p>又十一张美丽的图片<br><img src="/2017/09/07/哈哈，重新试一下/(哈哈，重新试一下/1.jpg" alt="haha"></p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;美丽的一天&lt;br&gt;糟糕的一天&lt;/p&gt;
-&lt;img src=&quot;/2017/09/07/哈哈，重新试一下/2017/09/07/哈哈，重新试一下/1.jpg&quot; alt=&quot;美丽的一天&quot; title=&quot;美丽的一天&quot;&gt;
-&lt;p&gt;又十一张美丽的图片&lt;br&gt;&lt;img src=&quot;/2017/0
+&lt;p&gt;&lt;img src=&quot;/2017/09/07/哈哈，重新试一下/.1jpg&quot; alt=&quot;美丽的一天&quot;&gt;&lt;/p&gt;
+&lt;p&gt;又十一张美丽的图片&lt;br&gt;&lt;img src=&quot;/2017/09/07/哈哈，重新试一下/(哈哈，重新试一下/1.j
       
     
     </summary>
     
     
-      <category term="心情" scheme="http://yoursite.com/tags/%E5%BF%83%E6%83%85/"/>
+      <category term="心情" scheme="https://laughforever.github.io/tags/%E5%BF%83%E6%83%85/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/09/03/hello-world/"/>
-    <id>http://yoursite.com/2017/09/03/hello-world/</id>
+    <link href="https://laughforever.github.io/2017/09/03/hello-world/"/>
+    <id>https://laughforever.github.io/2017/09/03/hello-world/</id>
     <published>2017-09-03T08:35:54.403Z</published>
     <updated>2017-09-03T08:35:54.404Z</updated>
     
