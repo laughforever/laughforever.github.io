@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-09-06T13:30:26.204Z</updated>
+  <updated>2017-09-07T06:32:03.321Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,21 +17,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>哈哈，试一下</title>
-    <link href="http://yoursite.com/2017/09/06/%E5%93%88%E5%93%88%EF%BC%8C%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
-    <id>http://yoursite.com/2017/09/06/哈哈，试一下/</id>
-    <published>2017-09-06T12:34:09.000Z</published>
-    <updated>2017-09-06T13:30:26.204Z</updated>
+    <title>哈哈，重新试一下</title>
+    <link href="http://yoursite.com/2017/09/07/%E5%93%88%E5%93%88%EF%BC%8C%E9%87%8D%E6%96%B0%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
+    <id>http://yoursite.com/2017/09/07/哈哈，重新试一下/</id>
+    <published>2017-09-07T06:30:03.000Z</published>
+    <updated>2017-09-07T06:32:03.321Z</updated>
     
-    <content type="html"><![CDATA[<p>美丽的一天<br>糟糕的一天</p><p><img src="img/1.jpg" alt="美丽的一天"></p>]]></content>
+    <content type="html"><![CDATA[<p>##美丽的一天</p><p>##糟糕的一天</p><img src="/2017/09/07/哈哈，重新试一下/2017/09/07/哈哈，重新试一下/1.jpg" alt="美丽的一天" title="美丽的一天">]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;美丽的一天&lt;br&gt;糟糕的一天&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;img/1.jpg&quot; alt=&quot;美丽的一天&quot;&gt;&lt;/p&gt;
-
+        &lt;p&gt;##美丽的一天&lt;/p&gt;
+&lt;p&gt;##糟糕的一天&lt;/p&gt;
+&lt;img src=&quot;/2017/09/07/哈哈，重新试一下/2017/09/07/哈哈，重新试一下/1.jpg&quot; alt=&quot;美丽的一天&quot; title=&quot;美丽的一天&quot;&gt;
       
     
     </summary>
